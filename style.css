@@ -5,10 +5,10 @@
 }
 
 #grid li {
-    transition: all linear 200ms;
     border: 2px solid black;
     height: 50px;
     padding: 10px;
+    transition: all linear 200ms;
     width: 50px;
 }
 

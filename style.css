@@ -5,6 +5,7 @@
     list-style: none;
     align-content: center;
     align-self: center;
+    align-items: center;
 }
 
 #grid li {

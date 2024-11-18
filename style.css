@@ -18,3 +18,6 @@
     color: aliceblue;
     cursor: pointer;
 }
+header {
+    background-color: rgb(255, 247, 172);
+}

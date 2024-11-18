@@ -14,5 +14,6 @@
 
 #grid li :hover {
     background-color: aquamarine;
+    color: aliceblue;
     cursor: pointer;
 }

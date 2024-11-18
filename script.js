@@ -6,9 +6,8 @@ for (let i = 1; i <= 25; i++) {
     li.textContent = 'item number $(i)';
     ol.appendChild(li);
     li.addEventListener("click", () => {
-        if (i % 3 == 0) {
-            console.log("fizz");
-        }
+        if (i % 3 == 0) {console.log("fizz"); }
+        if (i % 5 == 0) {console.log("buzz"); }
         console.log('click?');
     });
 }

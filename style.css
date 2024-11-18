@@ -5,7 +5,7 @@
 }
 
 #grid li {
-    animation: 200ms color ease-in;
+    transition: all linear 200ms;
     border: 2px solid black;
     height: 50px;
     padding: 10px;

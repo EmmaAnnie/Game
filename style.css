@@ -4,6 +4,7 @@
     grid-template-columns: repeat(5, 50px);
     list-style: none;
     align-content: center;
+    align-self: center;
 }
 
 #grid li {

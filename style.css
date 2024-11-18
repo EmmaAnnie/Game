@@ -13,7 +13,7 @@
     width: 50px;
 }
 
-#grid li :hover {
+#grid li:hover {
     background-color: aquamarine;
     color: aliceblue;
     cursor: pointer;
